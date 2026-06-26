@@ -1,4 +1,4 @@
-BOT_TOKEN = "এখানে_আপনার_নতুন_টোকেন_বসান"
+BOT_TOKEN = 8845526256:AAFYL0zJ-ZatsCTDN2GbYa-8RgDeHiDNGgw
 
 ADMIN_IDS = [
     8265796059,
