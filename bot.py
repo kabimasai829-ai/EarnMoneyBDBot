@@ -12,7 +12,7 @@ from telegram.ext import (
     filters,
 )
 
-BOT_TOKEN = 8845526256:AAHIYlyQiacv1g-VRkBzVDw_ZWDBX_UjahU
+BOT_TOKEN = 8845526256:AAEq9zBWy0Jlw-5A1fV-q2OVqa9IGod20AE
 
 ADMIN_IDS = [
     8265796059,
